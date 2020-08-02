@@ -79,6 +79,7 @@ jobs:
         git clone https://github.com/esirplayground/luci-app-LingTiGameAcc.git
         git clone https://github.com/esirplayground/LingTiGameAcc.git
         git clone https://github.com/esirplayground/Lienol-obsolete.git
+        git clone https://github.com/esirplayground/luci-theme-atmaterial-ColorIcon.git
     #    git clone https://github.com/Lienol/openwrt-package package/lienol
     #    git clone "your_github_link" package/"your_folder_name"      
 
